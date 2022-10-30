@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "Crisp/Flower Sea",
+			"oem": "Xiaomi",
+			"device": "Xiaomi 11 Pro",
+			"filename": "riceDroid-7.5-22102918-COMMUNITY-PIXEL-mars.zip",
+			"download": "",
+			"timestamp": ,
+			"md5": "",
+			"sha256": "",
+			"size": ,
+			"version": "7.5",
+			"buildtype": "Monthly",
+			"forum": "",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "https://t.me/MarsStarDevelopment",
+			"dt": "https://github.com/Crispsu/android_device_xiaomi_mars",
+			"common-dt": "https://github.com/Crispsu/android_device_xiaomi_sm8350-common",
+			"kernel": "https://github.com/FlowerSea0208/kernel_xiaomi_mars"
+		}
+	]
+}
